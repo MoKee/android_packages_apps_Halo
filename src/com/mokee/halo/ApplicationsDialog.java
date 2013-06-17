@@ -1,6 +1,5 @@
 /*
- * Copyright (C) 2012 The CyanogenMod Project
- * This code has been modified. Portions copyright (C) 2012, ParanoidAndroid Project.
+ * Copyright (C) 2012 The MoKee OpenSource Project
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -15,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.paranoid.halo;
+package com.mokee.halo;
 
 import android.content.Context;
 import android.content.pm.PackageManager;

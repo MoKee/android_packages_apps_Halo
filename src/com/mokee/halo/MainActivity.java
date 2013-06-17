@@ -1,4 +1,20 @@
-package com.paranoid.halo;
+/*
+ * Copyright (C) 2012 The MoKee OpenSource Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *      http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+package com.mokee.halo;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,8 +29,8 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Shader;
 import android.graphics.drawable.BitmapDrawable;
-import com.paranoid.halo.ApplicationsDialog.AppAdapter;
-import com.paranoid.halo.ApplicationsDialog.AppItem;
+import com.mokee.halo.ApplicationsDialog.AppAdapter;
+import com.mokee.halo.ApplicationsDialog.AppItem;
 
 import android.graphics.drawable.Drawable;
 import android.net.Uri;

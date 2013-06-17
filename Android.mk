@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2012 ParanoidAndroid Project
+# Copyright (C) 2012 MoKee OpenSource Project
 #
 # Licensed under the GNU GPLv2 license
 #
@@ -17,6 +17,6 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4
 
-LOCAL_PACKAGE_NAME := HALO
+LOCAL_PACKAGE_NAME := Halo
 
 include $(BUILD_PACKAGE)
