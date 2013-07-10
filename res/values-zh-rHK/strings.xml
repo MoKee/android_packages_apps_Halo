@@ -13,13 +13,12 @@
     <string name="unknown">未知</string>
     
     <string name="stop_to_remove">在移除任何應用程式前，請先停止服務。</string>
-    
+
+    <string name="ext_notes">注解</string>
     <string name="ext_note1">注解 1</string>
     <string name="ext_note2">注解 2</string>
     <string name="ext_note3">注解 3</string>
     <string name="ext_note4">注解 4</string>
     <string name="extensions">插件</string>
-
-    <string name="note">注解</string>
 
 </resources>
