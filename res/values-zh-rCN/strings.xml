@@ -22,8 +22,8 @@
     <string name="extensions">插件</string>
 
     <string name="helper_static_2">如何使用Halo)))</string>
-	<string name="helper_static_3">轻按扣针按钮</string>
-	<string name="helper_static_4">然后选择对话框列表中您所需要显示的应用程序。</string>
-	<string name="helper_static_5">最后点击开始按钮，大功告成！如果你想要禁用只需点击暂停按钮。</string>
+    <string name="helper_static_3">轻按扣针按钮</string>
+    <string name="helper_static_4">然后选择对话框列表中您所需要显示的应用程序。</string>
+    <string name="helper_static_5">最后点击开始按钮，大功告成！如果你想要禁用只需点击暂停按钮。</string>
 
 </resources>
