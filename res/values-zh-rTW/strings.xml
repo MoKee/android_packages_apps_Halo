@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HALO)))</string>
+    <string name="tap_to_launch">按一下開啟應用程式</string>
+    <string name="start">啟動</string>
+    <string name="stop">停止</string>
+    <string name="add">加入</string>
+    <string name="choose_app">加入應用程式</string>
+    <string name="icon_picker_type">選擇圖案種類：</string>
+    <string name="icon_default">預設</string>
+    <string name="icon_custom">自定</string>
+    <string name="unknown">未知</string>
+
+    <string name="stop_to_remove">在移除任何應用程式前，請先停止服務。</string>
+
+    <string name="ext_notes">便簽</string>
+    <string name="ext_note1">便簽 1</string>
+    <string name="ext_note2">便簽 2</string>
+    <string name="ext_note3">便簽 3</string>
+    <string name="ext_note4">便簽 4</string>
+    <string name="extensions">插件</string>
+
+    <string name="helper_static_2">使用Halo)))</string>
+    <string name="helper_static_3">輕按扣針按鈕</string>
+    <string name="helper_static_4">然後選擇列表中您需要加入到Halo的應用程序。</string>
+    <string name="helper_static_5">最後點擊啟動按鈕。如果你想要停用HALO)))，請點擊停止。</string>
+
+</resources>
